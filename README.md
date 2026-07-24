@@ -1,6 +1,8 @@
-<a href="https://github.com/kasuowkl/metodo-norte-kit">
-  <img src="https://raw.githubusercontent.com/kasuowkl/metodo-norte-kit/main/docs/img/capa.png" alt="Método Norte — dê um norte à sua IA" width="100%">
-</a>
+<p align="center">
+  <a href="https://github.com/kasuowkl/metodo-norte-kit">
+    <img src="https://raw.githubusercontent.com/kasuowkl/metodo-norte-kit/main/docs/img/capa.png" alt="Método Norte — dê um norte à sua IA" width="900">
+  </a>
+</p>
 
 <h1 align="center">Kasuo Lehmann</h1>
 
