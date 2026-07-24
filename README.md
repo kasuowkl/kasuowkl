@@ -1,3 +1,7 @@
+<a href="https://github.com/kasuowkl/metodo-norte-kit">
+  <img src="https://raw.githubusercontent.com/kasuowkl/metodo-norte-kit/main/docs/img/capa.png" alt="Método Norte — dê um norte à sua IA" width="100%">
+</a>
+
 <h1 align="center">Kasuo Lehmann</h1>
 
 <p align="center">
@@ -16,10 +20,6 @@
 ## 🧭 Projeto em destaque — Método Norte
 
 > **Dê um norte à sua IA.** Faça a IA desenvolver seus sistemas com consistência — sem alucinar tabelas, sem duplicar código, sem misturar projetos.
-
-<a href="https://github.com/kasuowkl/metodo-norte-kit">
-  <img src="https://raw.githubusercontent.com/kasuowkl/metodo-norte-kit/main/docs/img/capa.png" alt="Método Norte — apresentação" width="640">
-</a>
 
 O **Método Norte** é um *starter kit* open-source que funciona como **roteador de contexto** para desenvolvimento com IA: uma documentação padrão que dá à IA o contexto certo, na hora certa. Extraído de um caso real de produção (portal corporativo com 17+ módulos, ~100 tabelas, 2 ambientes espelhados).
 
