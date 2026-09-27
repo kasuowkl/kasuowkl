@@ -79,3 +79,11 @@ Todos seguem o mesmo padrão — HTML/CSS/JS, Node.js e SQL Server — e são de
 - **Infraestrutura & automação** — virtualização, firewall, Nginx, publicação segura, Active Directory
 - **Integrações** — ERP, mensageria, e-mail, AD, PNCP
 - **Método & documentação** — padronizar como equipes usam IA para codar com consistência
+
+---
+
+<h3 align="center">Quem não é visto não é lembrado.</h3>
+
+<p align="center">
+  <i>Por isso mostramos o que estamos construindo.</i> → <a href="https://site.grupowkl.com.br/#contato">Fale com a gente</a>
+</p>
